@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-express-jwt-appartoo-postman",
+  "name": "nodejs-express-jwt-appartoo-postman-mongoDB-mlab",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
